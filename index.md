@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP D4N155
-tags: example-tag
+tags: D4N155-tag
 level: 0
 type: tool
 auto-migrated: 1
