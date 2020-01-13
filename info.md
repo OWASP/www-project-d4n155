@@ -2,9 +2,14 @@
 * [Changelog](https://github.com/OWASP/D4N155/releases)
 * [Github](https://github.com/OWASP/D4N155)
 * [Homepage](http://d4n155.spks.cc/)
+* [Issue Tracker](https://github.com/OWASP/D4N155/issues)
 
 ### Download
 * [Download](https://github.com/OWASP/D4N155/tags)
+
+### Related Projects
+* [Posso quebrar sua senha? D4N155 - CPBSB](https://youtu.be/z6-B-eqhyI4)
+* [D4N155 - Se antecipe de seu inimigo](https://www.linkedin.com/pulse/d4n155-se-antecipe-de-seu-inimigo-julio-lira/)
 
 ### Colaborators
 * [Guilmour Rossi](https://guilmour.org/)
