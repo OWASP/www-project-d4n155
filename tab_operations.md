@@ -1,9 +1,9 @@
 ---
 title: Operations
-layout:  null
+layout: col-sidebar
 tab: true
 order: 1
-tags: operations OWASP-D4N155 Bruteforce Wordlist Permutations Combinatories
+tags: operations, OWASP-D4N155, Bruteforce, Wordlist, Permutations, Combinatories
 ---
 
 # Operation of OWASP D4N155
