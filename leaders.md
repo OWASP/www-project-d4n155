@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Julio Pedro de Lira Neto](mailto:julio.lira@owasp.org)
+* [Julio Lira](mailto:julio.lira@owasp.org)
