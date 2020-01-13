@@ -1,11 +1,7 @@
-<!--### Project Information
-* Project Level
-* Project Type
-* Version, etc
+### Project Information
+* [Changelog](https://github.com/OWASP/D4N155/releases)
+* [Github](https://github.com/OWASP/D4N155)
+* [Homepage](http://d4n155.spks.cc/)
 
-### Downloads or Social Links
-* [Download](#)
-* [Social Link](#)
-
-### Code Repository
-* [repo](#)-->
+### Download
+* [Download](https://github.com/OWASP/D4N155/tags)
