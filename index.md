@@ -10,28 +10,20 @@ auto-migrated: 1
 
 ---
 
-
 ## OWASP Tool Project D4N155
-OWASP Tool Project D4N155The project uses OSINT for dynamic and smart attack of brute force, using a complex operation and get the word list using expressions find 
-```
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+OWASP Tool Project D4N155The project uses OSINT for dynamic and smart attack of brute force, using a complex operation and get the word list using expressions find.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+# Description
+On the abstract we can presume that this isn’t just another pentest tool this is a truly powerful tool, that integrate various key features of another projects and ideas of the developers and aggregate then in a same place. 
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+## KEY FEATURES
+* Make smart wordlist based from page content
+* Make smart wordlist based from specific url content
+* Make smart wordlist based from past content
+* FREE SOFTWARE IN LICENSE(GPL V3) AND IN ESSENCE
+* Automatic Report Feature with two options: 
+* * HTML Where it generate a dynamic graphic for quick visualization
+* * PDF
+People with bad intentions dedicate a long part of their time to read profiles, posts analyzing then, observing reactions with in order to obtain the maximum information about their targets in order to make their list (of passwords) and the door for attack. Even if you do not have specific knowledge, so you may be using this tool will help you get a sense of how vulnerable you are and consequently take action and prevent a possible attack.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+Besides this it’s a friendly tool for a pentester with the features of automatics reports the professional can save time, writing extensive reports with pages of print screens, technician reports and transcription of procedures this tool can make a half of a job for him.
