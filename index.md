@@ -24,6 +24,7 @@ On the abstract we can presume that this isn’t just another pentest tool this 
 * Automatic Report Feature with two options: 
 * * HTML Where it generate a dynamic graphic for quick visualization
 * * PDF
+
 People with bad intentions dedicate a long part of their time to read profiles, posts analyzing then, observing reactions with in order to obtain the maximum information about their targets in order to make their list (of passwords) and the door for attack. Even if you do not have specific knowledge, so you may be using this tool will help you get a sense of how vulnerable you are and consequently take action and prevent a possible attack.
 
 Besides this it’s a friendly tool for a pentester with the features of automatics reports the professional can save time, writing extensive reports with pages of print screens, technician reports and transcription of procedures this tool can make a half of a job for him.
