@@ -6,6 +6,7 @@ tags: D4N155-tag
 level: 2
 
 ---
+![](assets/images/logo.png)
 
 ## OWASP Tool Project D4N155
 OWASP Tool Project D4N155The project uses OSINT for dynamic and smart attack of brute force, using a complex operation and get the word list using expressions find.
