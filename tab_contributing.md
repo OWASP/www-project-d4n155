@@ -1,5 +1,6 @@
 ---
 title: Contributing - OWASP D4N155
+display: Contributing
 layout: null
 tab: true
 order: 3
