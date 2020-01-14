@@ -1,9 +1,9 @@
 ---
-title: Contributing - OWASP D4N155
+title: Contributing
 display: Contributing
 layout: null
 tab: true
-order: 1
+order: 3
 tags: D4N155-tag
 
 ---
